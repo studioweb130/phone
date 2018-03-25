@@ -1,2 +1,16 @@
 *.class
 *.log
+.cache
+.history
+.lib/
+dist/*
+target/
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.history
+.DS_Store
+log/
+~
